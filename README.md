@@ -21,7 +21,7 @@ XML: Extensible Markup Language, XML, используется для созда
   1) https://habr.com/ru/post/341602/ - серия статей на habr , где показывается какое окружение kotlin примерно будет использоваться для разрабокти приложения
   2) https://www.youtube.com/watch?v=30tchn0TjaM - "Котлин за час" хороший видос с примерами и объяснением синтаксиса , циклов , написания функций и других структур
   3) https://www.youtube.com/watch?v=vC1VQUQILlU&list=PLwDTFujB9kIY3daXRyEkfAfdSEYfYfYCR&index=32 - плейлист , где чувак показывает , как он пишет игру на kotlin за 30 серий , одна серия 10-15 минут.
-  4) https://martalex.gitbooks.io/gameprogrammingpatterns/content/chapter-2/2.1-command.html - 
+  4) https://martalex.gitbooks.io/gameprogrammingpatterns/content/chapter-2/2.1-command.html - онлайн-книга про паттерны разработки , которые нужны для разрабокти игр
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1) Обсуждеине код-стиля написания проекта 
 2) Примерные сроки выполнения этапов каскадной моедли
